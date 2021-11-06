@@ -1,7 +1,8 @@
 body{
     background-color: darkmagenta;
- background-image: url("https://cdn.glitch.me/214fa4cd-de8f-40e3-a28f-ecd3d94c98bf%2Flava.gif?v=1636177363804");
+ background-image: url("https://cdn.glitch.me/214fa4cd-de8f-40e3-a28f-ecd3d94c98bf%2F04f90e9c410e0146cdf3f48a674d34d0.gif?v=1636179484064");
    background-size: cover;
+
     
 
 top: 10px;
@@ -10,8 +11,9 @@ top: 10px;
     margin:0;
 }
 
+
 Pine{
- font-family:  sans-serif;
+ font-family:  "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   color: 	green;
 top: 10px;
 hieght: 10px;
