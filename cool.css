@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://cdn.glitch.me/214fa4cd-de8f-40e3-a28f-ecd3d94c98bf%2Fcoolthings.gif?v=1636172347650');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+Pine{
+  color: white;
+font-size: 800% /*px, cm, in, etc.*/; 
+}
+
