@@ -1,16 +1,128 @@
 body{
-    background-image: url('https://cdn.glitch.me/214fa4cd-de8f-40e3-a28f-ecd3d94c98bf%2Fcoolthings.gif?v=1636172347650');
-    background-size: cover;
+    background-color: darkmagenta;
+ background-image: url("https://cdn.glitch.me/214fa4cd-de8f-40e3-a28f-ecd3d94c98bf%2Flava.gif?v=1636177363804");
+   background-size: cover;
     
-    
-    
-    height: 100vh;
+
+top: 10px;
+    height: 100px;
     padding:0;
     margin:0;
 }
 
 Pine{
-  color: white;
+ font-family:  sans-serif;
+  color: 	green;
+top: 10px;
+hieght: 10px;
 font-size: 800% /*px, cm, in, etc.*/; 
 }
 
+body{
+text-align: center;}
+
+.About {
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:12px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:15px 76px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #3d768a;
+ postion:relative;
+top: 2px;
+margin-top: 39px;
+
+}
+.About:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.About:active {
+	position:relative;
+	top:2px;
+}
+
+
+.Contact {
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:12px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:30px 20px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #3d768a;
+margin-top: 50px;
+postiion:relative;
+
+}
+.Contact:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.Contact:active {
+	position:relative;
+	top:1px;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+font-size: 90px;
+postiion:relative;
+top:400px;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+
+.DEV {
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:12px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:24px 10px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #3d768a;
+
+}
+.DEV:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.DEV:active {
+	position:relative;
+	top:1px;
+}
+
+
+.K1 {
+position:relative; 
+  top:30px; 
+font-family:  sans-serif;
+  color: 	Green;
+hieght: 10px;
+font-size: 800% /*px, cm, in, etc.*/; 
+
+}
